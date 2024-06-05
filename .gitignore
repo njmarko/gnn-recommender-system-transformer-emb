@@ -167,4 +167,4 @@ data/*.xls
 data/ml-latest-small
 wandb/
 gnn_paper_data.zip
-movie_embedding.json
+movie_embeddings.json
